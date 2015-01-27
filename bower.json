@@ -1,0 +1,25 @@
+{
+  "name": "framaterial",
+  "version": "0.0.1",
+  "authors": [
+    "Lucas Bonomi -  @LukyVj lucas.bonomi@gmail.com"
+  ],
+  "description": "A Framework to create Material Design projects",
+  "keywords": [
+    "material",
+    "design",
+    "ui",
+    "ux",
+    "google"
+  ],
+  "license": "MIT",
+  "homepage": "http://framaterial.github.io/framaterial/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
